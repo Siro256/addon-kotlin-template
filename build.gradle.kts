@@ -20,6 +20,7 @@ buildscript {
 
 apply(plugin = "net.minecraftforge.gradle")
 
+//Change this
 group = "dev.siro256.rtmpack.template"
 version = "1.0.0-SNAPSHOT"
 
