@@ -1,7 +1,5 @@
 # addon-kotlin-template
 
-## About
-
 This is a template repository of RealTrainMod addon pack using Kotlin.
 
 ## License
