@@ -14,7 +14,8 @@ Please use according to the license
     - "group" at build.gradle.kts:24
     - "version" at build.gradle.kts:25
     - "rootProject.name" at settings.gradle.kts:2
-3. Write your code.
+3. Place resources under `src/main/resources/`.
+5. Write your code.
 
 ## How to build
 
