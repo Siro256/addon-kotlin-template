@@ -8,7 +8,7 @@ plugins {
 
 buildscript {
     repositories {
-        maven { url = uri("https://maven.siro256.dev/repository/maven-public/") }
+        maven { url = uri("https://repo.siro256.dev/repository/maven-public/") }
     }
 
     dependencies {
@@ -25,7 +25,7 @@ group = "dev.siro256.rtmpack.template"
 version = "1.0.0-SNAPSHOT"
 
 repositories {
-    maven { url = uri("https://maven.siro256.dev/repository/maven-public/") }
+    maven { url = uri("https://repo.siro256.dev/repository/maven-public/") }
     maven { url = uri("https://cursemaven.com") }
 }
 
